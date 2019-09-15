@@ -2,4 +2,8 @@
 /.idea/
 /target/
 /out/
+<<<<<<< HEAD
 *.iml
+=======
+*.iml
+>>>>>>> Upload app
